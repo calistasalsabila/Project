@@ -10,7 +10,7 @@ These are the top projects that best represent my skills and focus areas.
 
 - 
 
-📄 See full list → [MVP_projects.md](./MVP_projects.md)
+📄 See full list → [MVP_projects.md](https://github.com/calistasalsabila/Project/blob/main/python_projects.md)
 
 ---
 
