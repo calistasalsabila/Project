@@ -50,3 +50,14 @@ Web-based tools & applications (Flask, HTML/CSS/JS, etc).
 ---
 
 > 🚧 This repo is continuously updated as I learn and build more. Check back regularly for new additions!
+
+---
+
+### 🧠 Transparency Statement
+While many of these projects were initially built through structured online courses, they have been:
+
+- Refactored with custom file structures and modular code  
+- Enhanced with new features or UI/UX improvements  
+- Documented and organized to mirror real-world development practices  
+
+I believe that learning by building — then adapting — is key to growth. These projects serve as both a personal archive and a showcase of my evolving skills. 🚀
