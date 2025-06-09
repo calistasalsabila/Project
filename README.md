@@ -10,7 +10,7 @@ These are the top projects that best represent my skills and focus areas.
 
 - 
 
-📄 See full list → [MVP_projects.md](https://github.com/calistasalsabila/Project/blob/main/python_projects.md)
+📄 See full list → [MVP_projects.md](https://github.com/calistasalsabila/Project/blob/main/MVP_projets.md)
 
 ---
 
@@ -19,7 +19,7 @@ A collection of Python-based projects covering GUI, automation, games, and utili
 
 - 
 
-📄 See full list → [python_projects.md](./python_projects.md)
+📄 See full list → [python_projects.md](https://github.com/calistasalsabila/Project/blob/main/python_projects.md)
 
 ---
 
