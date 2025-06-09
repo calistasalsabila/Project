@@ -28,7 +28,7 @@ End-to-end ML pipelines, from data preprocessing to model deployment.
 
 -
 
-📄 See full list → [ml_projects.md](./ml_projects.md)
+📄 See full list → [ml_projects.md](https://github.com/calistasalsabila/Project/blob/main/ml_projects.md)
 
 ---
 
@@ -37,7 +37,7 @@ Cross-platform mobile apps using Flutter & Dart.
 
 - 
 
-📄 See full list → [flutter_projects.md](./flutter_projects.md)
+📄 See full list → [flutter_projects.md](https://github.com/calistasalsabila/Project/blob/main/flutter_projects.md)
 
 ---
 
@@ -45,7 +45,7 @@ Cross-platform mobile apps using Flutter & Dart.
 Web-based tools & applications (Flask, HTML/CSS/JS, etc). 
 
 -
-📄 See full list → [web_projects.md](./web_projects.md)
+📄 See full list → [web_projects.md](https://github.com/calistasalsabila/Project/blob/main/web_projects.md)
 
 ---
 
