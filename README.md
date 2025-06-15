@@ -1,7 +1,6 @@
 # Calista's Project Navigator
 
 Welcome to my personal learning and project dashboard!  
-This repository tracks all the projects I've built across domains and is linked to my GitHub Organization: [@calista-labs](https://github.com/calista-labs)
 
 ---
 
