@@ -17,7 +17,7 @@ A classic game remake using `pygame` with added features like power-ups.
 ### 🔸 [Project C: File Organizer CLI]  
 Command-line tool to auto-sort files into folders by type/date.
 
-###🔸 [Project 1: GUI Calculator with Tkinter](https://github.com/calistasalsabila/py-calculator-app-tkinter)
+### 🔸 [Project 1: GUI Calculator with Tkinter](https://github.com/calistasalsabila/py-calculator-app-tkinter)
 A desktop calculator with basic arithmetic operations built using Python and Tkinter. Features clean layout, input validation, and modular code structure.
 
 ---
