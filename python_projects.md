@@ -18,7 +18,7 @@ A classic game remake using `pygame` with added features like power-ups.
 Command-line tool to auto-sort files into folders by type/date.
 
 ### 🔸 [Project 1: GUI Calculator with Tkinter and API](https://github.com/calistasalsabila/py-calculator-app-tkinter)
-A desktop calculator with basic arithmetic operations built using Python and Tkinter. Features clean layout, input validation, and modular code structure.
+A dual-mode calculator built with Python & Tkinter. Switch between standard arithmetic and AI chat with GPT.
 
 ---
 
