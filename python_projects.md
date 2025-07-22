@@ -20,6 +20,11 @@ Command-line tool to auto-sort files into folders by type/date.
 ### 🔸 [Project 1: Calculator App with GPT Mode (Python + Tkinter)](https://github.com/calistasalsabila/py-calculator-app-tkinter)
 A dual-mode calculator built with Python & Tkinter. Switch between standard arithmetic and AI chat with GPT.
 
+### 🔸 [Project 2: QR Code Generator](https://github.com/calistasalsabila/py-qr-code-generator)
+Generate custom QR codes instantly via a clean Python-based GUI.
+
 ---
 
 📄 Back to overview → [README.md](./README.md)
+
+
