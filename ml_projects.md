@@ -15,7 +15,7 @@ Scikit-learn project using regression to estimate housing prices.
 ---
 
 ### 🔸 [Project 1: Breast Cancer Detection with Logistic Regression](https://github.com/calistasalsabila/ml-breast-cancer-detection-with-logistic-regression)
-Logistic regression-based classification of breast cancer tumors using clinical diagnostic features.
+A machine learning project for binary classification of breast cancer tumors using logistic regression, aiming to distinguish between benign and malignant cases based on diagnostic features.
 
 ---
 
