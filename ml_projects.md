@@ -10,7 +10,7 @@ Custom CNN model for handwritten digit recognition — built from scratch withou
 ---
 
 ### 🔸 [Project A: Heart Attack Prediction](https://github.com/calistasalsabila/heart-attack-prediction)
-A machine learning project using Scikit-learn to predict heart attack risk based on patient health indicators
+- A machine learning project using Scikit-learn to predict heart attack risk based on patient health indicators
 
 ---
 
