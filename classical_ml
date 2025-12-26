@@ -1,0 +1,52 @@
+SORRY, my bad. ✋😅 Oke, lupakan Web, lupakan Laravel, lupakan deploy. Kita masuk mode "Pure Scientist". Kita fokus membedah algoritma dan datanya doang.
+
+Kalau tujuannya buat memperkuat fondasi Classical ML (sebelum loncat ke Deep Learning/BiLSTM nanti), ini 3 proyek terbaik dari list itu yang wajib kamu ambil.
+
+Pilih berdasarkan "Skill Gap" (apa yang mau kamu pelajari), bukan sekadar judulnya keren.
+
+1. Jalur "Persiapan Skripsi/Paper" (NLP Dasar) 📄
+Ambil: Fake Product Review Detection atau Spam Email Detector.
+
+Kenapa:
+
+Kamu kan mau arahnya ke NLP (BiLSTM). Nah, sebelum pake "Meriam" (BiLSTM), kamu harus bisa pake "Pistol" (Classical ML) dulu.
+
+Di sini kamu belajar dasar NLP: Tokenization, Stopword Removal, TF-IDF, atau Bag of Words.
+
+Algoritmanya pake Naive Bayes atau SVM.
+
+Modifikasi (Rombak):
+
+Ganti datasetnya jadi "Indonesian Hoax News" (banyak di Kaggle/GitHub).
+
+Goal: Jadikan ini Baseline. Nanti pas semester 5 kamu bikin BiLSTM, kamu bisa bandingin: "Tuh liat, BiLSTM akurasinya 95%, sedangkan Naive Bayes (yang aku kerjain sekarang) cuma 80%." Itu bahan skripsi yang solid.
+
+2. Jalur "Raja Kompetisi" (Tabular Data) 🏆
+Ambil: Predict Employee Attrition using XGBoost.
+
+Kenapa:
+
+XGBoost itu algoritmanya para juara Kaggle buat data tabel. Kalau kamu nguasain ini, kamu udah di top tier Classical ML.
+
+Ini belajar Classification yang kompleks (bukan cuma Yes/No, tapi ngatur hyperparameter biar modelnya pinter).
+
+Modifikasi (Rombak):
+
+Cari dataset "Student Dropout Analysis" atau "Prediksi Kelulusan Tepat Waktu".
+
+Analisis fitur apa yang paling ngaruh? Apakah IPK semester 1? Atau absensi? (Pake fitur feature_importance di XGBoost). Ini skill Data Analysis tingkat tinggi.
+
+3. Jalur "Data Kotor" (Anomaly Detection) 🕵️‍♂️
+Ambil: Credit Card Fraud Detection.
+
+Kenapa:
+
+Ini bukan klasifikasi biasa. Ini kasus Imbalanced Data (Data Fraud cuma 0.1%, Data Normal 99.9%).
+
+Kalau kamu pake accuracy_score, hasilnya 99% tapi modelnya sampah. Kamu dipaksa belajar metrik lain kayak Recall, Precision, F1-Score, dan teknik SMOTE (manipulasi data).
+
+Ini skill vital. Data di dunia nyata itu jarang seimbang.
+
+Modifikasi (Rombak):
+
+Bisa ganti ke "Network Intrusion Detection" (Cybersecurity) kalau suka jaringan. Logikanya sama: nyari anomali di antara data normal.
