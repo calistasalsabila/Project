@@ -1,52 +1,52 @@
-SORRY, my bad. ✋😅 Oke, lupakan Web, lupakan Laravel, lupakan deploy. Kita masuk mode "Pure Scientist". Kita fokus membedah algoritma dan datanya doang.
+1. Fake Product Review / Spam Email Detection
 
-Kalau tujuannya buat memperkuat fondasi Classical ML (sebelum loncat ke Deep Learning/BiLSTM nanti), ini 3 proyek terbaik dari list itu yang wajib kamu ambil.
+Fokus: NLP Dasar & Text Cleaning (Regex, Stopwords).
 
-Pilih berdasarkan "Skill Gap" (apa yang mau kamu pelajari), bukan sekadar judulnya keren.
+Kenapa: Gerbang masuk sebelum kamu nyentuh BiLSTM nanti.
 
-1. Jalur "Persiapan Skripsi/Paper" (NLP Dasar) 📄
-Ambil: Fake Product Review Detection atau Spam Email Detector.
+Algoritma: Naive Bayes / SVM.
 
-Kenapa:
+2. Predict Employee Attrition (Modif: Student Dropout)
 
-Kamu kan mau arahnya ke NLP (BiLSTM). Nah, sebelum pake "Meriam" (BiLSTM), kamu harus bisa pake "Pistol" (Classical ML) dulu.
+Fokus: Data Tabular & Logika Bisnis.
 
-Di sini kamu belajar dasar NLP: Tokenization, Stopword Removal, TF-IDF, atau Bag of Words.
+Kenapa: Belajar fitur apa yang bikin orang "cabut" (Resign/DO).
 
-Algoritmanya pake Naive Bayes atau SVM.
+Algoritma: XGBoost / Random Forest (Feature Importance).
 
-Modifikasi (Rombak):
+3. Credit Card Fraud Detection
 
-Ganti datasetnya jadi "Indonesian Hoax News" (banyak di Kaggle/GitHub).
+Fokus: Anomaly Detection & Imbalanced Data.
 
-Goal: Jadikan ini Baseline. Nanti pas semester 5 kamu bikin BiLSTM, kamu bisa bandingin: "Tuh liat, BiLSTM akurasinya 95%, sedangkan Naive Bayes (yang aku kerjain sekarang) cuma 80%." Itu bahan skripsi yang solid.
+Kenapa: Belajar nanganin data "rusak" (SMOTE, Precision/Recall).
 
-2. Jalur "Raja Kompetisi" (Tabular Data) 🏆
-Ambil: Predict Employee Attrition using XGBoost.
+Algoritma: Isolation Forest / Logistic Regression dengan class weights.
 
-Kenapa:
 
-XGBoost itu algoritmanya para juara Kaggle buat data tabel. Kalau kamu nguasain ini, kamu udah di top tier Classical ML.
 
-Ini belajar Classification yang kompleks (bukan cuma Yes/No, tapi ngatur hyperparameter biar modelnya pinter).
+🚀 Kategori 2: The Specialist (Pilihan Keren dari List Angka)
+Ini yang barusan kita bedah dari gambar yang kamu kirim.
 
-Modifikasi (Rombak):
+4. Resume Screening with Machine Learning
 
-Cari dataset "Student Dropout Analysis" atau "Prediksi Kelulusan Tepat Waktu".
+Fokus: Text Matching (Pencocokan).
 
-Analisis fitur apa yang paling ngaruh? Apakah IPK semester 1? Atau absensi? (Pake fitur feature_importance di XGBoost). Ini skill Data Analysis tingkat tinggi.
+Kenapa: Keren banget kalau nanti dibikin Web App. Upload PDF -> Keluar Skor Kecocokan.
 
-3. Jalur "Data Kotor" (Anomaly Detection) 🕵️‍♂️
-Ambil: Credit Card Fraud Detection.
+Algoritma: TF-IDF + Cosine Similarity.
 
-Kenapa:
+5. Future Sales Prediction
 
-Ini bukan klasifikasi biasa. Ini kasus Imbalanced Data (Data Fraud cuma 0.1%, Data Normal 99.9%).
+Fokus: Time Series (Data berurutan waktu).
 
-Kalau kamu pake accuracy_score, hasilnya 99% tapi modelnya sampah. Kamu dipaksa belajar metrik lain kayak Recall, Precision, F1-Score, dan teknik SMOTE (manipulasi data).
+Kenapa: "Meramal masa depan" itu skill mahal di dunia bisnis.
 
-Ini skill vital. Data di dunia nyata itu jarang seimbang.
+Algoritma: Linear Regression / XGBoost Regressor (bukan LSTM dulu ya!).
 
-Modifikasi (Rombak):
+6. Hate Speech Detection
 
-Bisa ganti ke "Network Intrusion Detection" (Cybersecurity) kalau suka jaringan. Logikanya sama: nyari anomali di antara data normal.
+Fokus: Klasifikasi Teks Kontekstual (Susah).
+
+Kenapa: Lebih menantang dari Spam Detection karena bahasa netizen itu kotor & penuh slang. Latihan data cleaning level dewa.
+
+Algoritma: SVM / Random Forest.
