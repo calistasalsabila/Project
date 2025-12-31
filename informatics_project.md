@@ -4,9 +4,8 @@ Focused on programming fundamentals, software design, system implementation, and
 
 ---
 
-## **Most Valuable Projects (MVP)**
-
-Projects that best represent my practical skills and current learning focus.
+## **Most Valuable Projects (MVP)** 🌟
+Selected projects that best reflect my technical skills, core focus areas, and learning progression.
 
 *
 
@@ -17,15 +16,7 @@ Projects that best represent my practical skills and current learning focus.
 Collection of implementations and exercises covering core data structures and algorithms. Emphasizes problem-solving, algorithmic thinking, and performance considerations commonly taught in informatics coursework.
 
 * [Daisuke Clinic](https://github.com/calistasalsabila/DaisukeClinic)
-
----
-
-### **Project B: Object-Oriented-Programming**
-
-UI slicing based on real-world web design references using Tailwind CSS.
-Focused on layout accuracy, responsive structure, and clean utility-based styling.
-
-* [E-Wallet UI Slicing](https://github.com/calista-web-labs/E-Wallet-UI-Slicing)
+  A case-based implementation focusing on algorithmic logic and data structure usage within a simple clinic management scenario.
 
 ---
 

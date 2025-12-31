@@ -4,28 +4,18 @@ A collection of applied learning projects focused on web development, UI enginee
 
 ---
 
-## **Most Valuable Projects (MVP)**
-
-Projects that best represent my practical skills and current learning focus.
+## **Most Valuable Projects (MVP)** 🌟
+Selected projects that best reflect my technical skills, core focus areas, and learning progression.
 
 *
 
 ## **Projects**
 
-### **Project A: Website Portfolio**
+### **Project Python**
+Python-based projects focusing on core programming concepts, problem-solving, and practical applications across various domains.
 
-Personal portfolio website showcasing layout systems, UI structure, and interaction design.
-
-* [Website Portfolio Exercise](https://github.com/calista-web-labs/web-portofolio)
-
----
-
-### **Project B: UI Slicing with Tailwind CSS**
-
-UI slicing based on real-world web design references using Tailwind CSS.
-Focused on layout accuracy, responsive structure, and clean utility-based styling.
-
-* [E-Wallet UI Slicing](https://github.com/calista-web-labs/E-Wallet-UI-Slicing)
+* [Calculator App with GPT Mode](https://github.com/calistasalsabila/py-calculator-app-with-GPT-mode)
+A dual-mode calculator built with Python & Tkinter. Switch between standard arithmetic and AI chat with GPT.
 
 ---
 

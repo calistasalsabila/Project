@@ -1,33 +1,37 @@
-# **Applied Coding**
+# **Machine Learning**
 
-A collection of applied learning projects focused on web development, UI engineering, and general programming experiments.
+A collection of machine learning projects focused on hands-on learning through data analysis, modeling, and experimentation.
 
 ---
 
-## **Most Valuable Projects (MVP)**
+## **Most Valuable Projects (MVP)** 🌟
+Selected projects that best reflect my technical skills, core focus areas, and learning progression.
 
-Projects that best represent my practical skills and current learning focus.
+* [*Machine Learning Journey*](https://github.com/calistasalsabila/Machine-Learning)
+A structured repository documenting learning progress and experimentation across machine learning concepts and approaches
 
-*
+* [*Indonesian Hoax Detection*](https://github.com/calistasalsabila/indonesian-hoax-detection)
+Detecting Indonesian political hoaxes using deep learning and machine learning models through a collaborative study employing Random Forest, LSTM, and BiLSTM architectures.
+
+---
 
 ## **Projects**
 
-### **Project A: Website Portfolio**
+### **Project A: Classical Ml**
+Implementations of classical machine learning algorithms from first principles, focusing on mathematical intuition, optimization, and model behavior beyond library-level usage.
 
-Personal portfolio website showcasing layout systems, UI structure, and interaction design.
+* []()
 
-* [Website Portfolio Exercise](https://github.com/calista-web-labs/web-portofolio)
+---
+
+### **Project B: Deep Learning**
+Implementations of deep learning models from first principles, emphasizing neural architectures, optimization dynamics, and representation learning beyond high-level frameworks.
+
+* []()
 
 ---
 
-### **Project B: UI Slicing with Tailwind CSS**
 
-UI slicing based on real-world web design references using Tailwind CSS.
-Focused on layout accuracy, responsive structure, and clean utility-based styling.
-
-* [E-Wallet UI Slicing](https://github.com/calista-web-labs/E-Wallet-UI-Slicing)
-
----
 
 ## **Notes**
 

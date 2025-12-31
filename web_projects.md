@@ -1,33 +1,46 @@
-# Calista's Project Navigator
+# **Website**
+A collection of full-stack web development projects focused on hands-on learning through frontend and backend development, system integration, and end-to-end experimentation.
 
-Welcome to my personal web learning and project dashboard!  
-
++
 ---
-## Most Valuable Projects (MVP)
-These are the top projects that best represent my skills and focus areas.
+## **Most Valuable Projects (MVP)** 🌟
+Selected projects that best reflect my technical skills, core focus areas, and learning progression.
 
--
-
-## Projects
-
-### Project A: Webiste Portofilio
-Personal portfolio website showcasing layout systems, UI structure, and interaction design.
-- [Website Portofolio Excercise](https://github.com/calista-web-labs/web-portofolio)
-
-### Project B: UI Slicing with Tailwind CSS
-UI slicing based on real-world web design references using Tailwind CSS.  
-Focused on layout accuracy, responsive structure, and clean utility-based styling.
-- [E-Wallet UI SLicing](https://github.com/calista-web-labs/E-Wallet-UI-Slicing)
-
+* [*Fullstack Development Journey*](https://github.com/calistasalsabila/Website)
+A structured repository documenting learning progress and experimentation across full-stack web development concepts and approaches.
 
 ---
 
-### NOtes
-While many of these projects were initially built through structured online courses, they have been:
+## **Projects**
 
-- Refactored with custom file structures and modular code  
-- Enhanced with new features or UI/UX improvements  
-- Documented and organized to mirror real-world development practices  
+### **Project Frontend**
+Implementations of frontend interfaces and components, focusing on layout structure, styling, interactivity, and user experience beyond basic templates.
 
-I believe that learning by building — then adapting — is key to growth. These projects serve as both a personal archive and a showcase of my evolving skills. 
+* []()
+
+---
+
+### **Project Backend**
+Implementations of backend systems and services, focusing on server-side logic, data handling, API design, and application architecture beyond basic scaffolding.
+
+* []()
+
+---
+
+### **Project Fullstack**
+End-to-end web application implementations integrating frontend interfaces, backend services, and data flow, with an emphasis on system architecture and full-stack interaction.
+
+* []()
+
+---
+
+## **Notes**
+
+While some projects were initially built through structured learning resources, they have been:
+
+* Refactored with custom file structures and modular code
+* Enhanced with additional features or UI improvements
+* Organized to reflect practical development workflows
+
+These projects represent applied learning through building and iteration, documenting my technical growth over time.
 

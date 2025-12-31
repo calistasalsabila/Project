@@ -4,11 +4,17 @@ Welcome to my personal learning and project dashboard.
 
 ---
 
-## Most Valuable Projects (MVP)
+## Most Valuable Projects (MVP) 🌟
+Selected projects that best reflect my technical skills, core focus areas, and learning progression.
 
-Projects that best represent my skills, focus areas, and overall growth.
+* [*Indonesian Hoax Detection*](https://github.com/calistasalsabila/indonesian-hoax-detection)
+Detecting Indonesian political hoaxes using deep learning and machine learning models through a collaborative study employing Random Forest, LSTM, and BiLSTM architectures.
 
-*
+* [*Fullstack Development Journey*](https://github.com/calistasalsabila/Website) ⭐
+A structured repository documenting learning progress and experimentation across full-stack web development concepts and approaches.
+
+* [*Machine Learning Journey*](https://github.com/calistasalsabila/Machine-Learning) ⭐
+A structured repository documenting learning progress and experimentation across machine learning concepts and approaches
 
 ---
 
@@ -16,10 +22,11 @@ Projects that best represent my skills, focus areas, and overall growth.
 A collection of learning projects applying machine learning x web development, and general programming concepts. Focused on practical experiments, proofs of concept, and understanding technical trade-offs across tools and paradigms.
 
 
-*
+* [Calculator App with GPT Mode](https://github.com/calistasalsabila/py-calculator-app-with-GPT-mode)
+A dual-mode calculator built with Python & Tkinter. Switch between standard arithmetic and AI chat with GPT.
 
 Organization: [calista-labs](https://github.com/calista-labs)
-Full list: [applied coding](https://github.com/calista-labs/applied-coding.md)
+Full list: [applied coding](https://github.com/calistasalsabila/Project/blob/main/applied_coding.md)
 
 ---
 
@@ -27,10 +34,12 @@ Full list: [applied coding](https://github.com/calista-labs/applied-coding.md)
 
 Projects exploring data processing, model training, evaluation, and applied ML workflows.
 
-*
+* [*Indonesian Hoax Detection*](https://github.com/calistasalsabila/indonesian-hoax-detection) 🌟
+Detecting Indonesian political hoaxes using deep learning and machine learning models through a collaborative study employing Random Forest, LSTM, and BiLSTM architectures.
+
 
 Organization: [calista-ml-labs](https://github.com/calista-ml-labs)
-Full list: [ml_projects.md](https://github.com/calista-ml-labs/ml_projects.md)
+Full list: [ml_projects.md](https://github.com/calistasalsabila/Project/blob/main/ml_projects.md)
 
 ---
 
@@ -38,10 +47,11 @@ Full list: [ml_projects.md](https://github.com/calista-ml-labs/ml_projects.md)
 
 Web-based applications and experiments focusing on frontend, backend, and system design.
 
-*
+* [Website Portofolio](https://github.com/calistasalsabila/web-portofolio)
+Personal portfolio website showcasing layout systems, UI structure, and interaction design.
 
 Organization: [calista-web-labs](https://github.com/calista-web-labs)
-Full list: [web_projects.md](https://github.com/calista-web-labs/web_projects.md)
+Full list: [web_projects.md](https://github.com/calistasalsabila/Project/blob/main/web_projects.md)
 
 ---
 
@@ -50,13 +60,13 @@ Full list: [web_projects.md](https://github.com/calista-web-labs/web_projects.md
 Academic and applied projects developed as part of informatics coursework and independent study.
 Focused on programming fundamentals, software design, system implementation, and technical problem-solving.
 
-### **Project A: Data-Structure and Algortihm**
+### **Project A: Data-Structure and Algorithms**
 
 Collection of implementations and exercises covering core data structures and algorithms. Emphasizes problem-solving, algorithmic thinking, and performance considerations commonly taught in informatics coursework.
 
 * [Daisuke Clinic](https://github.com/calistasalsabila/DaisukeClinic)
 
-Full list: [informatics_projects.md](https://github.com/calista-web-labs/informatics_projects.md)
+Full list: [informatics_projects.md](https://github.com/calistasalsabila/Project/blob/main/informatics_project.md)
 
 ---
 
