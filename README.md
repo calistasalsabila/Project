@@ -10,18 +10,16 @@ Projects that best represent my skills, focus areas, and overall growth.
 
 *
 
-Full list: [MVP_projects.md](https://github.com/calista-labs/MVP_projects.md)
-
 ---
 
-## Python Projects
+## Ml x Web Project
+A collection of learning projects applying machine learning x web development, and general programming concepts. Focused on practical experiments, proofs of concept, and understanding technical trade-offs across tools and paradigms.
 
-A collection of Python-based projects covering scripting, automation, utilities, and small applications.
 
 *
 
 Organization: [calista-labs](https://github.com/calista-labs)
-Full list: [python_projects.md](https://github.com/calista-labs/python_projects.md)
+Full list: [applied coding](https://github.com/calista-labs/applied-coding.md)
 
 ---
 
