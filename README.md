@@ -7,14 +7,16 @@ Welcome to my personal learning and project dashboard.
 ## Most Valuable Projects (MVP) 🌟
 Selected projects that best reflect my technical skills, core focus areas, and learning progression.
 
-* [*Indonesian Hoax Detection*](https://github.com/calistasalsabila/indonesian-hoax-detection)
-Detecting Indonesian political hoaxes using deep learning and machine learning models through a collaborative study employing Random Forest, LSTM, and BiLSTM architectures.
-
 * [*Fullstack Development Journey*](https://github.com/calistasalsabila/Website) ⭐
 A structured repository documenting learning progress and experimentation across full-stack web development concepts and approaches.
 
 * [*Machine Learning Journey*](https://github.com/calistasalsabila/Machine-Learning) ⭐
 A structured repository documenting learning progress and experimentation across machine learning concepts and approaches
+
+* [*Indonesian Hoax Detection*](https://github.com/calistasalsabila/indonesian-hoax-detection)
+Detecting Indonesian political hoaxes using deep learning and machine learning models through a collaborative study employing Random Forest, LSTM, and BiLSTM architectures.
+
+
 
 ---
 
