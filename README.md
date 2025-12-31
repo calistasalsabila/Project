@@ -1,62 +1,62 @@
 # Calista's Project Navigator
 
-Welcome to my personal learning and project dashboard!  
+Welcome to my personal learning and project dashboard.
 
 ---
 
-## 🔥 Most Valuable Projects (MVP)
-These are the top projects that best represent my skills and focus areas.
+## Most Valuable Projects (MVP)
 
-- 
+Projects that best represent my skills, focus areas, and overall growth.
 
-📄 See full list → [MVP_projects.md](https://github.com/calistasalsabila/Project/blob/main/MVP_projects.md)
+*
 
----
-
-## 🐍 Python Projects
-A collection of Python-based projects covering GUI, automation, games, and utilities.
-
-- 
-
-📄 See full list → [python_projects.md](https://github.com/calistasalsabila/Project/blob/main/python_projects.md)
+Full list: [MVP_projects.md](https://github.com/calista-labs/MVP_projects.md)
 
 ---
 
-## 🤖 Machine Learning Projects
-End-to-end ML pipelines, from data preprocessing to model deployment.
+## Python Projects
 
--
+A collection of Python-based projects covering scripting, automation, utilities, and small applications.
 
-📄 See full list → [ml_projects.md](https://github.com/calistasalsabila/Project/blob/main/ml_projects.md)
+*
 
----
-
-## 💙 Flutter Projects
-Cross-platform mobile apps using Flutter & Dart.
-
-- 
-
-📄 See full list → [flutter_projects.md](https://github.com/calistasalsabila/Project/blob/main/flutter_projects.md)
+Organization: [calista-labs](https://github.com/calista-labs)
+Full list: [python_projects.md](https://github.com/calista-labs/python_projects.md)
 
 ---
 
-## 🌐 Web Projects
-Web-based tools & applications (Flask, HTML/CSS/JS, etc). 
+## Machine Learning Projects
 
--
-📄 See full list → [web_projects.md](https://github.com/calistasalsabila/Project/blob/main/web_projects.md)
+Projects exploring data processing, model training, evaluation, and applied ML workflows.
+
+*
+
+Organization: [calista-ml-labs](https://github.com/calista-ml-labs)
+Full list: [ml_projects.md](https://github.com/calista-ml-labs/ml_projects.md)
 
 ---
 
-> 🚧 This repo is continuously updated as I learn and build more. Check back regularly for new additions!
+## Web Projects
+
+Web-based applications and experiments focusing on frontend, backend, and system design.
+
+*
+
+Organization: [calista-web-labs](https://github.com/calista-web-labs)
+Full list: [web_projects.md](https://github.com/calista-web-labs/web_projects.md)
 
 ---
 
-### 🧠 Transparency Statement
-While many of these projects were initially built through structured online courses, they have been:
+## Notes
 
-- Refactored with custom file structures and modular code  
-- Enhanced with new features or UI/UX improvements  
-- Documented and organized to mirror real-world development practices  
+This repository is updated continuously as new projects are built and refined.
 
-I believe that learning by building — then adapting — is key to growth. These projects serve as both a personal archive and a showcase of my evolving skills. 🚀
+## Transparency Statement
+
+Some projects were initially built through structured courses and learning materials. Over time, they have been:
+
+* Refactored with custom file structures and modular code
+* Extended with additional features or UI/UX improvements
+* Documented and organized to reflect real-world development practices
+
+These projects serve both as a personal archive and as evidence of ongoing technical growth.
