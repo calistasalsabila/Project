@@ -45,6 +45,21 @@ Full list: [web_projects.md](https://github.com/calista-web-labs/web_projects.md
 
 ---
 
+## **Informatics Projects**
+
+Academic and applied projects developed as part of informatics coursework and independent study.
+Focused on programming fundamentals, software design, system implementation, and technical problem-solving.
+
+### **Project A: Data-Structure and Algortihm**
+
+Collection of implementations and exercises covering core data structures and algorithms. Emphasizes problem-solving, algorithmic thinking, and performance considerations commonly taught in informatics coursework.
+
+* [Daisuke Clinic](https://github.com/calistasalsabila/DaisukeClinic)
+
+Full list: [informatics_projects.md](https://github.com/calista-web-labs/informatics_projects.md)
+
+---
+
 ## Notes
 
 This repository is updated continuously as new projects are built and refined.

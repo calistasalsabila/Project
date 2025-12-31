@@ -1,6 +1,6 @@
-# **Applied Coding**
-
-A collection of applied learning projects focused on web development, UI engineering, and general programming experiments.
+# **Informatics Project**
+Academic and applied projects developed as part of informatics coursework and independent study.
+Focused on programming fundamentals, software design, system implementation, and technical problem-solving.
 
 ---
 
@@ -12,15 +12,15 @@ Projects that best represent my practical skills and current learning focus.
 
 ## **Projects**
 
-### **Project A: Website Portfolio**
+### **Project A: Data-Structure and Algortihm**
 
-Personal portfolio website showcasing layout systems, UI structure, and interaction design.
+Collection of implementations and exercises covering core data structures and algorithms. Emphasizes problem-solving, algorithmic thinking, and performance considerations commonly taught in informatics coursework.
 
-* [Website Portfolio Exercise](https://github.com/calista-web-labs/web-portofolio)
+* [Daisuke Clinic](https://github.com/calistasalsabila/DaisukeClinic)
 
 ---
 
-### **Project B: UI Slicing with Tailwind CSS**
+### **Project B: Object-Oriented-Programming**
 
 UI slicing based on real-world web design references using Tailwind CSS.
 Focused on layout accuracy, responsive structure, and clean utility-based styling.
