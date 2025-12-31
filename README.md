@@ -67,6 +67,7 @@ Focused on programming fundamentals, software design, system implementation, and
 Collection of implementations and exercises covering core data structures and algorithms. Emphasizes problem-solving, algorithmic thinking, and performance considerations commonly taught in informatics coursework.
 
 * [Daisuke Clinic](https://github.com/calistasalsabila/DaisukeClinic)
+ A case-based implementation focusing on algorithmic logic and data structure usage within a simple clinic management scenario.
 
 Full list: [informatics_projects.md](https://github.com/calistasalsabila/Project/blob/main/informatics_project.md)
 
