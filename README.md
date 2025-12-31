@@ -12,7 +12,7 @@ Projects that best represent my skills, focus areas, and overall growth.
 
 ---
 
-## Ml x Web Project
+## Applied Coding
 A collection of learning projects applying machine learning x web development, and general programming concepts. Focused on practical experiments, proofs of concept, and understanding technical trade-offs across tools and paradigms.
 
 
