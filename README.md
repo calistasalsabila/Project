@@ -18,8 +18,8 @@ A collection of learning projects applying machine learning x web development, a
 
 *
 
-- Organization: [calista-labs](https://github.com/calista-labs)
-- Full list: [applied coding](https://github.com/calista-labs/applied-coding.md)
+Organization: [calista-labs](https://github.com/calista-labs)
+Full list: [applied coding](https://github.com/calista-labs/applied-coding.md)
 
 ---
 
