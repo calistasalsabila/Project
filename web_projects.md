@@ -1,7 +1,6 @@
 # **Website**
 A collection of full-stack web development projects focused on hands-on learning through frontend and backend development, system integration, and end-to-end experimentation.
 
-+
 ---
 ## **Most Valuable Projects (MVP)** 🌟
 Selected projects that best reflect my technical skills, core focus areas, and learning progression.

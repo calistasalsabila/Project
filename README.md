@@ -41,7 +41,7 @@ Detecting Indonesian political hoaxes using deep learning and machine learning m
 
 
 Organization: [calista-ml-labs](https://github.com/calista-ml-labs)
-Full list: [ml_projects.md](https://github.com/calistasalsabila/Project/blob/main/ml_projects.md)
+Full list: [ml_projects](https://github.com/calistasalsabila/Project/blob/main/ml_projects.md)
 
 ---
 
@@ -57,7 +57,7 @@ UI slicing based on real-world web design references using Tailwind CSS.
 Focused on layout accuracy, responsive structure, and clean utility-based styling.
 
 Organization: [calista-web-labs](https://github.com/calista-web-labs)
-Full list: [web_projects.md](https://github.com/calistasalsabila/Project/blob/main/web_projects.md)
+Full list: [web_projects](https://github.com/calistasalsabila/Project/blob/main/web_projects.md)
 
 ---
 
@@ -74,7 +74,7 @@ Collection of implementations and exercises covering core data structures and al
  A case-based implementation focusing on algorithmic logic and data structure usage within a simple clinic management scenario.
 
 Repository: [informatics](https://github.com/calistasalsabila/Informatics)
-Full list: [informatics_projects.md](https://github.com/calistasalsabila/Project/blob/main/informatics_project.md)
+Full list: [informatics_projects](https://github.com/calistasalsabila/Project/blob/main/informatics_project.md)
 
 ---
 
