@@ -52,6 +52,10 @@ Web-based applications and experiments focusing on frontend, backend, and system
 * [Website Portofolio](https://github.com/calistasalsabila/web-portofolio)
 Personal portfolio website showcasing layout systems, UI structure, and interaction design.
 
+* [E-Wallet UI SLicing](https://github.com/calistasalsabila/e-wallet-ui-slicing)
+UI slicing based on real-world web design references using Tailwind CSS.  
+Focused on layout accuracy, responsive structure, and clean utility-based styling.
+
 Organization: [calista-web-labs](https://github.com/calista-web-labs)
 Full list: [web_projects.md](https://github.com/calistasalsabila/Project/blob/main/web_projects.md)
 

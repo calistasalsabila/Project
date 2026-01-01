@@ -16,7 +16,12 @@ A structured repository documenting learning progress and experimentation across
 ### **Project Frontend**
 Implementations of frontend interfaces and components, focusing on layout structure, styling, interactivity, and user experience beyond basic templates.
 
-* []()
+* [Website Portofolio](https://github.com/calistasalsabila/web-portofolio)
+Personal portfolio website showcasing layout systems, UI structure, and interaction design.
+
+* [E-Wallet UI SLicing](https://github.com/calistasalsabila/e-wallet-ui-slicing)
+UI slicing based on real-world web design references using Tailwind CSS.  
+Focused on layout accuracy, responsive structure, and clean utility-based styling.
 
 ---
 
