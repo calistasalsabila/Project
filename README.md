@@ -53,7 +53,10 @@ Web-based applications and experiments focusing on frontend, backend, and system
 Personal portfolio website showcasing layout systems, UI structure, and interaction design.
 
 * [E-Wallet UI Slicing](https://github.com/calistasalsabila/e-wallet-ui-slicing)
-UI slicing based on real-world web design references using Tailwind CSS.  
+ E-wallet UI slicing using Tailwind CSS with clean utility-based layout.
+
+* [Crowd FUnding Slicing](https://github.com/calistasalsabila/crowd-funding-slicing)
+Crowdfunding platform UI slicing using Tailwind CSS with clean layout structure.
 
 Organization: [calista-web-labs](https://github.com/calista-web-labs)
 Full list: [web_projects](https://github.com/calistasalsabila/Project/blob/main/web_projects.md)
